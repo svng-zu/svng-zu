@@ -7,7 +7,7 @@
 
 💬 웹 개발과 동시에 배포를 위해 AWS를 공부하고 있으며, 직접 CI/CD 구축을 통해 토이 프로젝트를 진행해 보았습니다.
 
-=> hello00.net
+=> <a href="hello00.net">hello00.net<a>
 
 언어 및 도구 / Language & Tools
 
