@@ -11,11 +11,7 @@
 
 언어 및 도구 / Language & Tools
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;">    
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;">    
-<img height="20" src="https://avatars.githubusercontent.com/u/61449322?v=4" style="max-width: 100%;">    
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;">
-<img src="https://img.icons8.com/?size=256&amp;id=33039&amp;format=png 1x, https://img.icons8.com/?size=512&amp;id=33039&amp;format=png 2x" width="20" height="20" alt="Amazon Web Services icon" class="app-preview__image-origin" style="">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"><img height="20" src="https://avatars.githubusercontent.com/u/61449322?v=4" style="max-width: 100%;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;"><img src="https://img.icons8.com/?size=256&amp;id=33039&amp;format=png 1x" width="20" height="20" alt="Amazon Web Services icon" class="app-preview__image-origin" style="">
 
 언어 :
 Python, Java, JS, Node.js (React)
