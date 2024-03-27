@@ -50,7 +50,7 @@ Email : zztisdudoo@gmail.com
 for i in feed['entries'][:20]:
   # date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y.%m.%d %H:%M")
   # print(date, i['link'], i['title'])
-  markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
+  markdown_text += f"<a href =\"{i['link']}\"> {date} {i['title']} </a> <br>"
 
 f = open("README.md", mode ="w", encoding="utf-8")
 f.write(markdown_text)
