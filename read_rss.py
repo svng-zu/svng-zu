@@ -17,7 +17,7 @@ markdown_text = """
 <p align="center">
     <a href="https://dxdata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&amp;logo=Blogger&amp;logoColor=white"/></a>
     <a href="mailto:zztisdudoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=zztisdudoo@gmail.com"/></a>
-</p>;
+</p>
 
 <br>
 
