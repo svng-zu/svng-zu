@@ -7,9 +7,9 @@ markdown_text = """
 ###  🐱 github stats  
 
 <div id="main" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=peterica&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
+    <img src="https://github-readme-stats.vercel.app/api?username=svng-zu&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-<!--         &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&amp;layout=compact"   
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu>layout=compact"   
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
