@@ -6,9 +6,9 @@ name: Readme Update
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: "0 0 */1 * *"
 
@@ -35,4 +35,4 @@ jobs:
           git config --local user.email "@gmail.com"
           git config --local user.name "svng-zu"
           git commit -m "Update README.md"
-          git push origin +master
+          git push origin +main
