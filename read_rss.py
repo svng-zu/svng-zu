@@ -47,8 +47,8 @@ Email : zztisdudoo@gmail.com
 
 """ # list of blog posts will be appended here
 
-for i in feed['entries'][:20]:
-  date = datetime.datetime.strptime(published_date, "%a, %d %b %Y %H:%M:%S %z").strftime("%Y.%m.%d")
+for i in feed['entries'][:15]:
+  date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y.%m.%d")
   # print(date, i['link'], i['title'])
   markdown_text += f"<a href =\"{i['link']}\"> {date} {i['title']} </a> <br>"
 
