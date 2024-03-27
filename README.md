@@ -15,14 +15,10 @@
 <div id="main" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=svng-zu&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-
-    
+        
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu&layout=compact&theme=dracula"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvng-zu%2Fsvng-zu&count_bg=%2379C83D&title_bg=%230C6DB1&icon=&icon_color=%23E7E7E7&title=Lang&edge_flat=false"/></a>
-
-</div>    
+</div>
 
 <br>
 
