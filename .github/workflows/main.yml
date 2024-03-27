@@ -35,4 +35,4 @@ jobs:
           git config --local user.email "@gmail.com"
           git config --local user.name "svng-zu"
           git commit -m "Update README.md"
-          git push
+          git push origin +master
