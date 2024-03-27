@@ -22,6 +22,10 @@ markdown_text = """
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
+<br>
+
+###  💻 Language stats
+
 <div id="main" align="center">     
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu&layout=compact&theme=dracula"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
