@@ -21,7 +21,7 @@ markdown_text = """
     <img src="https://github-readme-stats.vercel.app/api?username=svng-zu&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
         
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu&layout=compact"   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu&layout=compact&theme=dracula"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
