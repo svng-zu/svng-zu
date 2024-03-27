@@ -25,7 +25,7 @@ markdown_text = """
 
 """ # list of blog posts will be appended here
 
-for i in feed['entries'][:10]:
+for i in feed['entries'][:20]:
   # date = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y.%m.%d %H:%M")
   # print(date, i['link'], i['title'])
   markdown_text += f"<a href =\"{i['link']}\"> {i['title']} </a> <br>"
