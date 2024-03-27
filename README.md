@@ -2,9 +2,9 @@
 ###  🐱 github stats  
 
 <div id="main" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=peterica&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
+    <img src="https://github-readme-stats.vercel.app/api?username=svng-zu&amp;count_private=true&amp;show_icons=true&amp;theme=radical"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-<!--         &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qpyu66&amp;layout=compact"   
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svng-zu>layout=compact"   
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
@@ -18,4 +18,4 @@
 
 ### 📕 Latest 10 Blog Posts   
 
-<a href ="https://dxdata.tistory.com/87"> 2023 천안시 데이터 시각화 기반 아이디어 공모전 (최우수상) </a> <br><a href ="https://dxdata.tistory.com/83"> AWS (10/27) </a> <br><a href ="https://dxdata.tistory.com/82"> Storage Service </a> <br><a href ="https://dxdata.tistory.com/81"> AWS </a> <br><a href ="https://dxdata.tistory.com/80"> Git Hub(2) </a> <br><a href ="https://dxdata.tistory.com/79"> Kubenetes </a> <br><a href ="https://dxdata.tistory.com/78"> CI/CD </a> <br><a href ="https://dxdata.tistory.com/77"> Git Hub </a> <br><a href ="https://dxdata.tistory.com/74"> Kubenetes(2) </a> <br><a href ="https://dxdata.tistory.com/73"> Docker(2) </a> <br>
+<a href ="https://dxdata.tistory.com/92"> JAVA 기초 (3/26) </a> <br><a href ="https://dxdata.tistory.com/87"> 2023 천안시 데이터 시각화 기반 아이디어 공모전 (최우수상) </a> <br><a href ="https://dxdata.tistory.com/83"> AWS (10/27) </a> <br><a href ="https://dxdata.tistory.com/82"> Storage Service </a> <br><a href ="https://dxdata.tistory.com/81"> AWS </a> <br><a href ="https://dxdata.tistory.com/80"> Git Hub(2) </a> <br><a href ="https://dxdata.tistory.com/79"> Kubenetes </a> <br><a href ="https://dxdata.tistory.com/78"> CI/CD </a> <br><a href ="https://dxdata.tistory.com/77"> Git Hub </a> <br><a href ="https://dxdata.tistory.com/74"> Kubenetes(2) </a> <br><a href ="https://dxdata.tistory.com/73"> Docker(2) </a> <br><a href ="https://dxdata.tistory.com/72"> Docker(3) </a> <br><a href ="https://dxdata.tistory.com/70"> Docker </a> <br><a href ="https://dxdata.tistory.com/69"> Linux3 </a> <br><a href ="https://dxdata.tistory.com/68"> Linux </a> <br><a href ="https://dxdata.tistory.com/67"> 클라우드 </a> <br><a href ="https://dxdata.tistory.com/66"> 자연어 처리(Natural Language Processing) </a> <br><a href ="https://dxdata.tistory.com/63"> Tensorflow를 이용한 회귀 와 분류 </a> <br><a href ="https://dxdata.tistory.com/62"> TensorFlow </a> <br><a href ="https://dxdata.tistory.com/59"> Association_Analysis (연관 분석) </a> <br>
