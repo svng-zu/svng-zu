@@ -12,10 +12,10 @@
 <p align="center">
     <a href="https://dxdata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&amp;logo=Blogger&amp;logoColor=white"/></a>
     <a href="mailto:zztisdudoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=zztisdudoo@gmail.com"/></a>
-</p>;
+</p>
 
 <br>
 
-### 📕 Latest Blog Posts   
+### 📕 Latest 10 Blog Posts   
 
-<a href ="https://dxdata.tistory.com/87"> 2023 천안시 데이터 시각화 기반 아이디어 공모전 (최우수상) </a> <br><a href ="https://dxdata.tistory.com/83"> AWS (10/27) </a> <br><a href ="https://dxdata.tistory.com/82"> Storage Service </a> <br><a href ="https://dxdata.tistory.com/81"> AWS </a> <br><a href ="https://dxdata.tistory.com/80"> Git Hub(2) </a> <br>
+<a href ="https://dxdata.tistory.com/87"> 2023 천안시 데이터 시각화 기반 아이디어 공모전 (최우수상) </a> <br><a href ="https://dxdata.tistory.com/83"> AWS (10/27) </a> <br><a href ="https://dxdata.tistory.com/82"> Storage Service </a> <br><a href ="https://dxdata.tistory.com/81"> AWS </a> <br><a href ="https://dxdata.tistory.com/80"> Git Hub(2) </a> <br><a href ="https://dxdata.tistory.com/79"> Kubenetes </a> <br><a href ="https://dxdata.tistory.com/78"> CI/CD </a> <br><a href ="https://dxdata.tistory.com/77"> Git Hub </a> <br><a href ="https://dxdata.tistory.com/74"> Kubenetes(2) </a> <br><a href ="https://dxdata.tistory.com/73"> Docker(2) </a> <br>
