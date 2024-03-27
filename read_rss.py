@@ -24,6 +24,8 @@ markdown_text = """
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>  -->
 </div>
 
+<br>
+
 ###  💁‍♀️ About Me  
 <p align="center">
     <a href="https://dxdata.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&amp;logo=Blogger&amp;logoColor=white"/></a>
