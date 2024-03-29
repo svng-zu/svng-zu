@@ -37,9 +37,8 @@
 
 <br>
 
-Portfolio : <a href="https://svng-zu.notion.site/43fcbb217a5a4206a0343908ea9412d8?pvs=4" rel="nofollow"><img src="https://camo.githubusercontent.com/f7d675ad8d1548b5cee0dc600041989403a8865c207e6f2c28c81260a25581a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6666666666663f7374796c653d666c61742d73717561726526266c6f676f3d4e6f74696f6e26266c6f676f436f6c6f723d626c61636b26" data-canonical-src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&amp;logo=Notion&amp;&amp;logoColor=black&amp;" style="max-width: 100%;"></a> 
+### Portfolio : <a href="https://svng-zu.notion.site/43fcbb217a5a4206a0343908ea9412d8?pvs=4" rel="nofollow"><img src="https://camo.githubusercontent.com/f7d675ad8d1548b5cee0dc600041989403a8865c207e6f2c28c81260a25581a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6666666666663f7374796c653d666c61742d73717561726526266c6f676f3d4e6f74696f6e26266c6f676f436f6c6f723d626c61636b26" data-canonical-src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&amp;&amp;logo=Notion&amp;&amp;logoColor=black&amp;" style="max-width: 100%;"></a> 
 
-Email : zztisdudoo@gmail.com
 
 언어 및 도구 / Language & Tools
 
