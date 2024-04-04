@@ -68,7 +68,7 @@
 
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    
 
   </div>
 
@@ -104,6 +104,8 @@
     <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
+
+<br>
 
 ### 📕 Latest 10 Blog Posts   
 
