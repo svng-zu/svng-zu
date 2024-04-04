@@ -46,11 +46,69 @@ markdown_text = """
 
 <br>
 
-### 언어 및 도구 / Language & Tools
+## 🛠️ Skills & Tools I've experienced
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width: 100%;"> <img height="20" src="https://avatars.githubusercontent.com/u/61449322?v=4" style="max-width: 100%;"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;"> <img src="https://img.icons8.com/?size=256&amp;id=33039&amp;format=png" width="20" height="20" alt="Amazon Web Services icon" class="app-preview__image-origin" style=""> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20" height="20" alt="js" title="js"> <img src="https://as1.ftcdn.net/v2/jpg/05/83/61/64/1000_F_583616402_eeFIruMMzI8pFF4pkAmDjywdMWu9TQsT.jpg" alt="React js linear icon" itemprop="thumbnail" width="20" height="20"> <img src="https://img.icons8.com/?size=256&amp;id=37o3DqV429ra&amp;format=png" width="20" height="20" alt="Django a high-level Python Web framework that encourages rapid development icon"> <img src="https://img.icons8.com/?size=256&amp;id=hsPbhkOH4FMe&amp;format=png" width="20" height="20" alt="노드-js icon" style=""> <img src="https://t1.daumcdn.net/cfile/tistory/99C5C133599E399F09" width="20" height= "20" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99C5C133599E399F09">
+<div style="display:flex; flex-direction:column;">
 
-<br>
+### Language
+
+  <div style="display:flex; flex-direction:row;">
+    <img src='https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+    <img src='https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white'>
+<!--     <img src='https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white'> -->
+  </div>
+
+### FrontEnd
+
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </div>
+
+### BackEnd
+
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+  </div>
+
+### DataBase
+
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  </div>
+
+### Libraries
+  
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  </div>
+
+### CI/CD
+
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </div>
+
+### Collaboration & Tools
+
+  <div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </div>
 
 ### 📕 Latest 10 Blog Posts   
 
